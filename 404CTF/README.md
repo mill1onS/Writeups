@@ -2,9 +2,6 @@
 
 ---
 
-[TOC]
-
----
 
 Here are the writeups I did for some challenges of the 404CTF.
 
