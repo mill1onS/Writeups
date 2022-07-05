@@ -2,10 +2,14 @@
 
 ---
 
+# Context
 
-Here are the writeups I did for some challenges of the 404CTF.
+In this french CTF, we will follow the evil attacks perpetrated by **Hallebarde**, and try to beat them through the challenges.
 
 # Challenges
+
+
+Here are the writeups I did for some challenges of the 404CTF.
 
 ## Misc
 - [ ] Un utilisateur suspicieux 1/2 ([wu](wu))
@@ -25,7 +29,7 @@ Here are the writeups I did for some challenges of the 404CTF.
 - [ ] Du gâteau ([wu](wu))
 
 ## OSINT
-- [ ] Collaborateur suspect ([wu](wu))
+- [x] Collaborateur suspect ([wu](wu))
 - [ ] Nous sommes infiltrés ! ([wu](wu))
 
 
